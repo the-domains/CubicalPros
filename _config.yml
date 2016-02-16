@@ -1,7 +1,7 @@
 name: Cubical Productions
 favicon: null
-layout_spectrum: 0.50152
-typography_spectrum: 0.69657
+layout_spectrum: 0.24859
+typography_spectrum: 0.36193
 title: The official portfolio site of Cubical Productions
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#505050'
     - '#57b9ba'
     - '#1b8f8f'
-  brandStrength: 0.06820447463542223
-  lightness: 0.4375
-  saturation: 0.75
-  rhythmicContrast: 0.5
+  brandStrength: 0.875
+  lightness: 0.8125
+  saturation: 0.4375
+  rhythmicContrast: 1
 purpose: []
