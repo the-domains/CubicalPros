@@ -1,7 +1,7 @@
 name: Cubical Productions
 favicon: null
-layout_spectrum: 0.8828162192367017
-typography_spectrum: 0.8191264776978642
+layout_spectrum: 0.50152
+typography_spectrum: 0.69657
 title: The official portfolio site of Cubical Productions
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#000000'
+    - '#979797'
+    - '#505050'
+    - '#57b9ba'
+    - '#1b8f8f'
   brandStrength: 0.06820447463542223
-  lightness: 0.29219804564490914
-  saturation: 0.21697496250271797
-  rhythmicContrast: 0.6778373261913657
+  lightness: 0.4375
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
